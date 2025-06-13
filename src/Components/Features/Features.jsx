@@ -9,10 +9,10 @@ import Feature2 from '/src/assets/Booths/booth4.png';
 import Feature3 from '/src/assets/chair/chair4.png';
 // import Feature4 from '/src/assets/sofa/sofa4.png';
 import Feature5 from '/src/assets/table/metal/metal_table1.png';
-import Feature6 from '/src/assets/Features/product_5.png';
+import Feature6 from '/src/assets/features/product_5.png';
 import Feature7 from '/src/assets/Barstool/stool6.png';
 import Feature8 from '/src/assets/table/terrazzo/terrazzo_table4.png';
-import Feature4 from '../../assets/Features/product_5.png';
+import Feature4 from '../../assets/features/product_5.png';
 
 
 
